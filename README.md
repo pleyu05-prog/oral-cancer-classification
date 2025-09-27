@@ -25,3 +25,7 @@ A minimal, reproducible portfolio project for oral cancer image classification (
     Epoch 5: val_acc=0.9733
     >> new best 0.9733
     Test acc: 0.9333
+## Figures
+![Confusion Matrix](assets/confusion_matrix.png)
+![ROC Curve](assets/roc.png)
+
