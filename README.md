@@ -1,7 +1,7 @@
 # Oral Cancer Classification (Kaggle)
 
 ## Project Overview
-A minimal, reproducible portfolio project for oral cancer image classification (binary). It trains a small ResNet-18 baseline on a Kaggle oral-cancer dataset and records results for your resume.
+A minimal, reproducible portfolio project for oral cancer image classification (binary). It trains a small ResNet-18 baseline on a Kaggle oral-cancer dataset and records results.
 
 ## Dataset and Split
 - Dataset: zaidpy/oral-cancer-dataset
